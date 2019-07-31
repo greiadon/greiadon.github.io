@@ -23,11 +23,11 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "world"
+        "survival - overworld"
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1564416391",
+        "cacheTag": "1564614618",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,15 +41,42 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Overviewer Render (lighting)",
-            "zoomLevels": 6,
+            "name": "Survival Daytime",
+            "zoomLevels": 5,
             "defaultZoom": 1,
-            "maxZoom": 6,
-            "path": "world-lighting",
+            "maxZoom": 5,
+            "path": "survivalday",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "world",
-            "last_rendertime": 1564409676,
+            "world": "survival - overworld",
+            "last_rendertime": 1564614635,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                0,
+                80,
+                0
+            ],
+            "minZoom": 0,
+            "spawn": [
+                0,
+                80,
+                0
+            ],
+            "north_direction": 0
+        },
+        {
+            "name": "Survival Nighttime",
+            "zoomLevels": 5,
+            "defaultZoom": 1,
+            "maxZoom": 5,
+            "path": "survivalnight",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "survival - overworld",
+            "last_rendertime": 1564614635,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",

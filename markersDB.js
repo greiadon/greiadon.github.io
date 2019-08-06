@@ -1,25 +1,5 @@
 var markersDB={
-  "All_signs0c74_f95d": {
-    "created": false,
-    "raw": [
-      {
-        "x": -14,
-        "y": 63,
-        "z": -45,
-        "text": "First encounter\nwith a skeleton\nhorse!",
-        "hovertext": "First encounter\nwith a skeleton\nhorse!"
-      },
-      {
-        "x": -118,
-        "y": 13,
-        "z": 22,
-        "text": "First gold ore\n\n",
-        "hovertext": "First gold ore\n\n"
-      }
-    ],
-    "name": "All signs"
-  },
-  "Chestsf395_f95d": {
+  "Chestsd395_80c1": {
     "created": false,
     "raw": [
       {
@@ -75,14 +55,21 @@ var markersDB={
         "x": 116,
         "y": 54,
         "z": 104,
-        "text": "Chest containing:\n ",
+        "text": "Chest containing:\n  | 24x rotten_flesh | 3x poisonous_potato",
         "hovertext": "Chest"
       },
       {
         "x": -61,
         "y": 68,
         "z": 37,
-        "text": "Chest containing:\n  | 1x stone_axe | 1x black_wool | 2x gray_wool | 1x dark_oak_sapling | 21x wheat_seeds | 2x oak_sapling | 188x dirt | 1x andesite | 64x stick | 1x iron_ingot | 1x white_dye | 2x gunpowder | 1x light_gray_dye | 2x oak_fence_gate | 1x wooden_axe",
+        "text": "Chest containing:\n  | 1x stone_axe | 1x black_wool | 2x gray_wool | 1x dark_oak_sapling | 169x cobblestone_wall | 18x oak_sapling | 192x dirt | 22x andesite | 64x iron_ore | 1x white_dye | 2x gunpowder | 1x light_gray_dye | 2x oak_fence_gate | 1x wooden_axe | 27x gravel | 9x cobblestone_stairs | 4x iron_nugget | 65x redstone | 52x diorite | 16x iron_ingot",
+        "hovertext": "Chest"
+      },
+      {
+        "x": -61,
+        "y": 68,
+        "z": 38,
+        "text": "Chest containing:\n  | 14x oak_planks | 6x oak_slab | 11x oak_log | 1x sand | 19x granite | 1x oxeye_daisy | 1x dark_oak_planks | 2x suspicious_stew | 17x oak_fence | 10x paper | 2x bamboo | 34x wheat | 5x potato | 82x dirt | 1x bucket | 1x iron_hoe",
         "hovertext": "Chest"
       },
       {
@@ -95,13 +82,33 @@ var markersDB={
     ],
     "name": "Chests"
   },
-  "Greiadon0c63_f95d": {
+  "All_signs2c74_80c1": {
     "created": false,
     "raw": [
       {
-        "x": -62.24625215433055,
+        "x": -14,
+        "y": 63,
+        "z": -45,
+        "text": "First encounter\nwith a skeleton\nhorse!",
+        "hovertext": "First encounter\nwith a skeleton\nhorse!"
+      },
+      {
+        "x": -118,
+        "y": 13,
+        "z": 22,
+        "text": "First gold ore\n\n",
+        "hovertext": "First gold ore\n\n"
+      }
+    ],
+    "name": "All signs"
+  },
+  "Greiadon2c63_80c1": {
+    "created": false,
+    "raw": [
+      {
+        "x": -63.359106159237044,
         "y": 68.0,
-        "z": 38.904390016202,
+        "z": 36.15963124373832,
         "icon": "https://overviewer.org/avatar/Greiadon",
         "text": "Last known location for Greiadon",
         "hovertext": "Last known location for Greiadon"

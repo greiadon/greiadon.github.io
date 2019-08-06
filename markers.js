@@ -1,21 +1,21 @@
 var markers={
   "survivalday": [
     {
-      "groupName": "All_signs0c74_f95d",
+      "groupName": "All_signs2c74_80c1",
       "displayName": "All signs",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,
       "checked": false
     },
     {
-      "groupName": "Chestsf395_f95d",
+      "groupName": "Chestsd395_80c1",
       "displayName": "Chests",
       "icon": "chest.png",
       "createInfoWindow": true,
       "checked": false
     },
     {
-      "groupName": "Greiadon0c63_f95d",
+      "groupName": "Greiadon2c63_80c1",
       "displayName": "Greiadon",
       "icon": "signpost_icon.png",
       "createInfoWindow": true,

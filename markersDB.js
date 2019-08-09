@@ -1,5 +1,25 @@
 var markersDB={
-  "Chestsd395_80c1": {
+  "All_signs2b74_8a61": {
+    "created": false,
+    "raw": [
+      {
+        "x": -14,
+        "y": 63,
+        "z": -45,
+        "text": "First encounter\nwith a skeleton\nhorse!",
+        "hovertext": "First encounter\nwith a skeleton\nhorse!"
+      },
+      {
+        "x": -118,
+        "y": 13,
+        "z": 22,
+        "text": "First gold ore\n\n",
+        "hovertext": "First gold ore\n\n"
+      }
+    ],
+    "name": "All signs"
+  },
+  "Chestsd495_8a61": {
     "created": false,
     "raw": [
       {
@@ -59,17 +79,31 @@ var markersDB={
         "hovertext": "Chest"
       },
       {
+        "x": 192,
+        "y": 46,
+        "z": 16,
+        "text": "Chest containing:\n ",
+        "hovertext": "Chest"
+      },
+      {
+        "x": 196,
+        "y": 46,
+        "z": 19,
+        "text": "Chest containing:\n ",
+        "hovertext": "Chest"
+      },
+      {
         "x": -61,
         "y": 68,
         "z": 37,
-        "text": "Chest containing:\n  | 1x stone_axe | 1x black_wool | 2x gray_wool | 1x dark_oak_sapling | 169x cobblestone_wall | 18x oak_sapling | 192x dirt | 22x andesite | 64x iron_ore | 1x white_dye | 2x gunpowder | 1x light_gray_dye | 2x oak_fence_gate | 1x wooden_axe | 27x gravel | 9x cobblestone_stairs | 4x iron_nugget | 65x redstone | 52x diorite | 16x iron_ingot",
+        "text": "Chest containing:\n  | 1x stone_axe | 1x black_wool | 2x gray_wool | 1x dark_oak_sapling | 169x cobblestone_wall | 2x andesite | 128x dirt | 64x iron_ore | 1x white_dye | 2x gunpowder | 1x light_gray_dye | 1x oak_fence_gate | 1x wooden_axe | 50x gravel | 9x cobblestone_stairs | 4x iron_nugget | 65x redstone | 3x gold_ingot",
         "hovertext": "Chest"
       },
       {
         "x": -61,
         "y": 68,
         "z": 38,
-        "text": "Chest containing:\n  | 14x oak_planks | 6x oak_slab | 11x oak_log | 1x sand | 19x granite | 1x oxeye_daisy | 1x dark_oak_planks | 2x suspicious_stew | 17x oak_fence | 10x paper | 2x bamboo | 34x wheat | 5x potato | 82x dirt | 1x bucket | 1x iron_hoe",
+        "text": "Chest containing:\n  | 14x oak_planks | 6x oak_slab | 11x oak_log | 1x sand | 2x flint | 20x granite | 7x iron_ore | 1x oxeye_daisy | 1x dark_oak_planks | 2x suspicious_stew | 6x oak_fence | 10x paper | 36x lapis_lazuli | 5x potato | 149x dirt | 1x bucket | 1x iron_hoe | 12x wheat | 1x stone_axe",
         "hovertext": "Chest"
       },
       {
@@ -82,33 +116,13 @@ var markersDB={
     ],
     "name": "Chests"
   },
-  "All_signs2c74_80c1": {
+  "Greiadon2b63_8a61": {
     "created": false,
     "raw": [
       {
-        "x": -14,
-        "y": 63,
-        "z": -45,
-        "text": "First encounter\nwith a skeleton\nhorse!",
-        "hovertext": "First encounter\nwith a skeleton\nhorse!"
-      },
-      {
-        "x": -118,
-        "y": 13,
-        "z": 22,
-        "text": "First gold ore\n\n",
-        "hovertext": "First gold ore\n\n"
-      }
-    ],
-    "name": "All signs"
-  },
-  "Greiadon2c63_80c1": {
-    "created": false,
-    "raw": [
-      {
-        "x": -63.359106159237044,
+        "x": -61.77452353964208,
         "y": 68.0,
-        "z": 36.15963124373832,
+        "z": 35.83138529827187,
         "icon": "https://overviewer.org/avatar/Greiadon",
         "text": "Last known location for Greiadon",
         "hovertext": "Last known location for Greiadon"

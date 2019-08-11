@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1565390734",
+        "cacheTag": "1565483578",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,11 +41,11 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Survival Daytime",
+            "name": "Survival Daytime North",
             "zoomLevels": 5,
             "defaultZoom": 1,
             "maxZoom": 5,
-            "path": "survivalday",
+            "path": "survivaldaynorth",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "survival - overworld",
@@ -68,11 +68,92 @@ var overviewerConfig = {
             "north_direction": 0
         },
         {
-            "name": "Survival Nighttime",
+            "name": "Survival Daytime South",
             "zoomLevels": 5,
             "defaultZoom": 1,
             "maxZoom": 5,
-            "path": "survivalnight",
+            "path": "survivaldaysouth",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "survival - overworld",
+            "last_rendertime": 1565390444,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                0,
+                80,
+                0
+            ],
+            "minZoom": 0,
+            "spawn": [
+                0,
+                80,
+                0
+            ],
+            "north_direction": 2
+        },
+        {
+            "name": "Survival Daytime West",
+            "zoomLevels": 5,
+            "defaultZoom": 1,
+            "maxZoom": 5,
+            "path": "survivaldaywest",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "survival - overworld",
+            "last_rendertime": 1565390444,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                0,
+                80,
+                0
+            ],
+            "minZoom": 0,
+            "spawn": [
+                0,
+                80,
+                0
+            ],
+            "north_direction": 3
+        },
+        {
+            "name": "Survival Daytime East",
+            "zoomLevels": 5,
+            "defaultZoom": 1,
+            "maxZoom": 5,
+            "path": "survivaldayeast",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "survival - overworld",
+            "last_rendertime": 1565390444,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                0,
+                80,
+                0
+            ],
+            "minZoom": 0,
+            "spawn": [
+                0,
+                80,
+                0
+            ],
+            "north_direction": 1
+        },
+        {
+            "name": "Cave Daytime North",
+            "zoomLevels": 5,
+            "defaultZoom": 1,
+            "maxZoom": 5,
+            "path": "cavedaynorth",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "survival - overworld",
@@ -93,6 +174,87 @@ var overviewerConfig = {
                 0
             ],
             "north_direction": 0
+        },
+        {
+            "name": "Cave Daytime South",
+            "zoomLevels": 5,
+            "defaultZoom": 1,
+            "maxZoom": 5,
+            "path": "cavedaysouth",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "survival - overworld",
+            "last_rendertime": 1565390444,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                0,
+                80,
+                0
+            ],
+            "minZoom": 0,
+            "spawn": [
+                0,
+                80,
+                0
+            ],
+            "north_direction": 2
+        },
+        {
+            "name": "Cave Daytime West",
+            "zoomLevels": 5,
+            "defaultZoom": 1,
+            "maxZoom": 5,
+            "path": "cavedaywest",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "survival - overworld",
+            "last_rendertime": 1565390444,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                0,
+                80,
+                0
+            ],
+            "minZoom": 0,
+            "spawn": [
+                0,
+                80,
+                0
+            ],
+            "north_direction": 3
+        },
+        {
+            "name": "Cave Daytime East",
+            "zoomLevels": 5,
+            "defaultZoom": 1,
+            "maxZoom": 5,
+            "path": "cavedayeast",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "survival - overworld",
+            "last_rendertime": 1565390444,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                0,
+                80,
+                0
+            ],
+            "minZoom": 0,
+            "spawn": [
+                0,
+                80,
+                0
+            ],
+            "north_direction": 1
         }
     ]
 };
